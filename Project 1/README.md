@@ -3,3 +3,5 @@
 # Implemented:
 * PCA (Principle Component Analysis) algorithm, project the high-dimensional data to 2 dimensions, and plot the 2-dimensional data points.
 * Apriori and association rule generation algorithms.
+
+All the code and report files are included in the respective folders.
